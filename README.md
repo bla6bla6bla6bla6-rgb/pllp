@@ -36,6 +36,12 @@
 1600	12178 мс	~1691 мс	7.20x
 2000	28769 мс	~3950 мс	7.28x
 Эффективность параллелизации (8 потоков): 51-91%
+Графики на основе результатов:
+<img width="2400" height="1800" alt="kk200" src="https://github.com/user-attachments/assets/cf8b93f9-0984-4e89-9d81-dbdf2f5c63b7" />
+<img width="2400" height="1800" alt="kk800" src="https://github.com/user-attachments/assets/4d30d459-0afa-4d25-9c05-c933ec36d037" />
+<img width="2400" height="1800" alt="kk1200" src="https://github.com/user-attachments/assets/d6951926-0efa-4172-bdb7-4f5dc4b63e33" />
+<img width="2400" height="1800" alt="kk1600" src="https://github.com/user-attachments/assets/a7c7cec6-f04d-44e7-a569-f36ba3da99b6" />
+<img width="2400" height="1800" alt="kk2000" src="https://github.com/user-attachments/assets/3785cc10-c3d5-4728-aa11-f51588e84ec2" />
 
 
 Верификация: результаты совпали
